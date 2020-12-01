@@ -1,0 +1,15 @@
+.cont { background-color: aliceblue; height: auto; padding-bottom: 12px; }
+.contSwitch { background: #232323; background-size: cover; height: auto; padding-bottom: 12px; color: aliceblue; }
+.bodySwitch { background: #232323 }
+.alert { width: 230px; float: right; margin-top: 10px; position: fixed }
+.textRight { text-align: right }
+.inline { display: inline-block }
+.center { text-align: center }
+.header { margin-top: 20%; font-size: 40px }
+.headerText { margin-top: -17px }
+.imageWeight { width: 50px; margin-right: 17px }
+.imageTime { width: 63px; margin-right: 17px }
+.imageSpeed { width: 50px; margin-right: 17px }
+.imageRepo { margin-right: 17px; width: 45px; height: 45px }
+.input { background-color: aliceblue}
+.inputSwitch { background-color: aliceblue; border-radius: 3px}
