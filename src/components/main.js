@@ -99,7 +99,7 @@ function Main() {
                 </h3>
               </Grid>
               <Grid className="center" item xs={12}>
-                    <Button href="https://www.google.com/" target="_blank" className={classes.btnRepo} variant="contained" >
+                    <Button href="https://github.com/AriesFirmansyah/Project-Convert" target="_blank" className={classes.btnRepo} variant="contained" >
                       <img className="imageRepo" src={RepoImage} /> 
                       View Repository
                     </Button>
